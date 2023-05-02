@@ -1,0 +1,23 @@
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+header,
+main,
+footer {
+  padding: 1rem;
+}
+
+header {
+  background-color: lightblue;
+}
+
+main {
+  background-color: lightyellow;
+}
+
+footer {
+  background-color: lightgreen;
+}
